@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f1f1f1;
+}
+
+@import url("./Components/designing/button.css");
+
+@import url("./Components/designing/DropDown.css");
+
+@import url("./Components/designing/main.css");
